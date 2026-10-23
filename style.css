@@ -23,3 +23,13 @@ main {
 li {
     margin: 10px 0;
 }
+section {
+    margin-top: 24px;
+    padding: 20px;
+    background-color: #e8eef8;
+    border-radius: 8px;
+}
+
+section h2 {
+    color: #243b64;
+}
