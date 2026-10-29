@@ -1,6 +1,13 @@
 /* From Uiverse.io by byllzz */ 
 /* Note: this design contains two hover states 1. card hover this just shift card above 2.card hover to see full card. OK! */
 
+body{
+    min-height: 100%;
+    min-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 /* Wallet Wrapper */
 .wallet {
   position: relative;
